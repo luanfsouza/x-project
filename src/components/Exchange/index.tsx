@@ -45,7 +45,7 @@ export default function Exchange({ crypto }) {
     return numero.join(',');
   }
   const { background } = useContext(ThemeContext);
-  console.log(crypto)
+
   return (
     <Container>
       <section className="exchangeInfo">
