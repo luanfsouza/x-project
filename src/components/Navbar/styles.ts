@@ -80,9 +80,9 @@ export const Container = styled.div`
         display: flex;
         justify-content: space-between;
         > h1 {
-          font-size: 1rem;
+          font-size: 1.6rem;
           > span {
-            font-size: 1.3rem;
+            font-size: 2rem;
           }
         }
       }
@@ -90,7 +90,7 @@ export const Container = styled.div`
         width: 100%;
 
         > li {
-          font-size: 0.8rem;
+          font-size: 1rem;
         }
         > li.login {
           font-size: 1rem;

@@ -13,37 +13,25 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# <strong>About the project</strong>
 
-This is a template for initial configuration for projects based in Next Js.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Use and abuse!
+## X Project
 
-</br>
 
-<!--INSTALATION-->
+```bash
 
-# <strong>Instalation</strong>
+Site de monitoramento de preços de criptoativos
 
-Just clone this repo or use as a template and enjoy!
+```
 
-Good coding!
+Você pode acessar o site aqui: [`X-Project`](https://x-project-kappa.vercel.app). 
 
-</br>
 
-# **License**
+X Project é o melhor lugar para você encontra as  melhores crypto moedas do mercado, de forma rapida e muito simples.
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-<!-- CONTACT -->
-</br>
+Entre em contato comigo: [`Linkedin`](https://www.linkedin.com/in/luan-ferreira-6b4a25181/) | [`Discord`](https://discordapp.com/users/337584872262729730) | [`Whatsapp`](https://api.whatsapp.com/send?phone=5577981451593&text=Oie%2C%20vamos%20trocar%20uma%20ideia!) | [`Email`](https://is.gd/ltuM33) 
 
-# **Contact**
 
-### Renan Oliveira - **renanlido@yahoo.com.br**
-
-[Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
-[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
-
-</br></br>
-Thanks for coming! 😊🤗
+<img src='./public/images/all-devices-black.png'/>

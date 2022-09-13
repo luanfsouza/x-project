@@ -25,6 +25,6 @@ export async function getStaticProps() {
    props: {
      crypto: json
    },
-   revalidate: 60 * 60 * 24
+   revalidate: 60 * 60 * 12
  };
 }
