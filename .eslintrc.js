@@ -27,6 +27,12 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'prettier/prettier': 'error',
     'space-before-function-paren': 'off',
-    'react/prop-types': 'off'
+    'react/prop-types': 'off',
+    'import/prefer-default-export': 'off',
+    'prettier/prettier': 'off',
+    'jsx-a11y/alt-text': 'off',
+    'react/no-unescaped-entities': 'off',
+    'react/no-array-index-key': 'off',
+    '@typescript-eslint/no-unused-vars': 'off'
   }
 };

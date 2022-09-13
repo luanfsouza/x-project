@@ -1,0 +1,30 @@
+const dark = {
+  title: 'dark',
+  toggle: 'white',
+  card1: '#3de03f',
+  card2: '#bd4eed',
+  card3: '#4a8be0',
+  link: 'white',
+  background: '#131c4d',
+  primary: '#e838e8',
+  secondary: '#2e85f0',
+  gradient: 'linear-gradient(225deg, #313860 0%, #11172B 100%);',
+  text1: '#bcbdc2',
+  text2: 'white',
+  text3: '#6c6c6c',
+  exchangeMenu: 'rgba(140, 140, 140, 0.16)',
+  exchangeMenuInput: 'rgba(150, 150, 150, 0.16)',
+  exchangeMenuButton1: '#e838e8',
+  exchangeMenuButton2: '#2e85f0',
+  exchangeRanking: 'rgba(79, 74, 74, 0.30)',
+  exchangeMenuBorder1: '#e838e8',
+  ww: '#2e85f0',
+  exchangeMenuBorder2: '#2e85f0',
+  textHighlight: '#444B5B',
+  textLight: '#C4C4C4',
+  border: '#313958',
+  inputBackground: '#1E253E',
+  error: '#d45d5d'
+};
+
+export default dark;

@@ -1,0 +1,30 @@
+const light = {
+  title: 'light',
+  toggle: 'white',
+  card1: 'lightgreen',
+  card2: 'lightcoral',
+  card3: 'lightblue',
+  link: 'white',
+  background: '#f3f4ff',
+  primary: '#ff8040',
+  secondary: '#3e3efb',
+  gradient: 'linear-gradient(225deg, #313860 0%, #11172B 100%);',
+  text1: '#140365',
+  text2: '#222',
+  text3: '#6c6c6c',
+  exchangeMenu: 'white',
+  exchangeMenuInput: '#f3f4ff',
+  exchangeMenuButton1: '#4e4ef2',
+  exchangeMenuButton2: '#927ee8',
+  exchangeRanking: 'white',
+  exchangeMenuBorder1: 'white',
+  ww: '#2e85f0',
+  exchangeMenuBorder2: 'white',
+  textHighlight: '#444B5B',
+  textLight: '#C4C4C4',
+  border: '#313958',
+  inputBackground: '#1E253E',
+  error: '#d45d5d'
+};
+
+export default light;
