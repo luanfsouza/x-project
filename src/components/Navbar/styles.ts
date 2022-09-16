@@ -43,7 +43,7 @@ export const Container = styled.div`
       display: flex;
       width: 100%;
       justify-content: space-between;
-     
+
       > li.login {
         cursor: pointer;
         &:hover {
@@ -60,9 +60,18 @@ export const Container = styled.div`
         align-items: center;
         color: ${({ theme }) => theme.text2};
         margin-right: 1rem;
-        > svg {
+        > div.user {
+          width: 50px;
+          height: 50px;
+          border-radius: 50%;
+          padding: 1.7px;
+          background-color: ${({ theme }) => theme.text2};
           margin-right: 1rem;
-          font-size: 1.8rem;
+          > img {
+            height: 100%;
+            width: 100%;
+            border-radius: 50%;
+          }
         }
       }
     }

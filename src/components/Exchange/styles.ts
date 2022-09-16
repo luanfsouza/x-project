@@ -6,7 +6,7 @@ export const Container = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin: 3rem auto;
-  input.disable{
+  input.disable {
     user-select: none;
     pointer-events: none;
   }
@@ -116,6 +116,7 @@ export const Container = styled.div`
       > option {
         border: none;
         outline: none;
+        color: ${({ theme }) => theme.text1Option};
       }
     }
     > div.country {

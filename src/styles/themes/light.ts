@@ -10,6 +10,7 @@ const light = {
   secondary: '#3e3efb',
   gradient: 'linear-gradient(225deg, #313860 0%, #11172B 100%);',
   text1: '#140365',
+  text1Option: '#140365',
   text2: '#222',
   text3: '#6c6c6c',
   exchangeMenu: 'white',

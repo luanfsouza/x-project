@@ -10,6 +10,7 @@ const dark = {
   secondary: '#2e85f0',
   gradient: 'linear-gradient(225deg, #313860 0%, #11172B 100%);',
   text1: '#bcbdc2',
+  text1Option: 'black',
   text2: 'white',
   text3: '#6c6c6c',
   exchangeMenu: 'rgba(140, 140, 140, 0.16)',
